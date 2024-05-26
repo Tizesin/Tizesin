@@ -23,6 +23,7 @@
   <br><br>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Simplicity_Studio_5-blue?style=for-the-badge&"/>
   <br><br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -30,12 +31,14 @@
 <br>
 <h3>🏆 Cards 🏆</h3>
 <hr />
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tizesin&show_icons=true&include_all_commits=true&hide_border=true&card_width=400px&theme=material-palenight" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tizesin&layout=compact&theme=material-palenight&hide_border=true&card_width=400px" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tizesin&show_icons=true&include_all_commits=true&hide_border=true&card_width=400px&theme=material-palenight" alt="Anurag's github stats" />
+<br>
+</a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tizesin&layout=compact&theme=material-palenight&hide_border=true&card_width=400px" /></a>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alswns0o"/>
+
 <!--
 **Tizesin/Tizesin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
