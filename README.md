@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&color=EE6FFF&center=true&vCenter=true&width=1000&height=70&pause=1000&duration=4000&lines=Hello!+👋+My+name+is+MinJun+Shin;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&color=EE6FFF&center=true&vCenter=true&width=1000&height=70&pause=1000&duration=4000&lines=Holla👄!+👋+My+name+is+MinJun+Shin👻;" />
 </h1>
 <br>
 <h3>🙋‍♂️ About Me 🙋‍♂️</h3>
