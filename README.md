@@ -4,9 +4,11 @@
      <img srt="file:///C:/Users/user/Downloads/MicrosoftWindows.Client.CBS_cw5n1h2txyewy!InputApp/ChinaFlagChineseGIF.gif"/>
 </h1>
 <br>
+<!--
 <h3>🙋‍♂️ About Me 🙋‍♂️</h3>
 <hr />
 <br>
+-->
 <h3>💻 Language & Tools 💻</h3>
 <hr />
 <p>
